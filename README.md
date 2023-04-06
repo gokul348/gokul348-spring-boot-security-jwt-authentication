@@ -9,7 +9,9 @@ The diagram shows flow of how we implement User Registration, User Login and Aut
 You can have an overview of our Spring Boot Server with the diagram below:
 
 ![spring-boot-jwt-authentication-spring-security-architecture](spring-boot-jwt-authentication-spring-security-architecture.png)
-
+
+
+
 
 ## Refresh Token
 
@@ -17,15 +19,7 @@ You can have an overview of our Spring Boot Server with the diagram below:
 
 For instruction: [Spring Boot Refresh Token with JWT example](https://bezkoder.com/spring-boot-refresh-token-jwt/)
 
-## More Practice:
-> [Spring Boot File upload example with Multipart File](https://bezkoder.com/spring-boot-file-upload/)
 
-> [Exception handling: @RestControllerAdvice example in Spring Boot](https://bezkoder.com/spring-boot-restcontrolleradvice/)
-
-> [Spring Boot Repository Unit Test with @DataJpaTest](https://bezkoder.com/spring-boot-unit-test-jpa-repo-datajpatest/)
-
-> [Spring Boot Pagination & Sorting example](https://www.bezkoder.com/spring-boot-pagination-sorting-example/)
-
 spring.datasource.url= jdbc:postgresql://localhost:5432/testdb
 spring.datasource.username= postgres
 spring.datasource.password= 123
